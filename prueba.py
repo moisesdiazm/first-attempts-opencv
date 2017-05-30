@@ -1,3 +1,3 @@
 ARchivo de prueba
 
-import numpy
+import numpy as np
